@@ -6,7 +6,7 @@ In human action recognition, visual feature descriptors are of vital importance.
 2、git clone https://github.com/xqpinitial/Robust-PCA-RPCA  ,<br>
    the v_BoxingPunchingBag_g01_c02.rar is demo of rpca ,<br>
    unrar PROPACK.rar  and run video_rpca_main.m to get rpca features ,<br>
-   ![](https://github.com/xqpinitial/RPCA_actional_recognition/raw/master/Screenshots/rpca.png)  
+   
 
-3、train A_hat_C3(low-rank feature) and E_hat_C3(sparse feature) \<br>
+3、train A_hat_C3(low-rank feature) and E_hat_C3(sparse feature) ,<br>
  using model_channels_change.py to revise your model for train
