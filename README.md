@@ -7,4 +7,4 @@ In human action recognition, visual feature descriptors are of vital importance.
    the v_BoxingPunchingBag_g01_c02.rar is demo of rpca
    unrar PROPACK.rar  and run video_rpca_main.m to get rpca features
    
-3、train and test
+3、train A_hat_C3(low-rank feature) and E_hat_C3(sparse feature) and using model_channels_change.py to revise your model for train
